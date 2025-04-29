@@ -26,12 +26,12 @@ Uno de los principales retos fue la gestión de cookies debido al rendering de A
     ```
 2. Instala las dependencias del frontend:
     ```bash
-    cd frontend
+    cd client
     npm install
     ```
 3. Instala las dependencias del backend:
     ```bash
-    cd backend
+    cd API
     pip install -r requirements.txt
     ```
 4. Inicia el servidor backend:
